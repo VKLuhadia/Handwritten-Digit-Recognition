@@ -7,3 +7,4 @@ layer for calculation of activations of the next layer), hidden layer (made of h
 nonlinear ties for the network) and output layer (provides us with the final prediction of the Neural Network)
 • Consists of multiple layers having many activations, which resemble to neurons of our brain and Tries to learn a set of
 parameters in a set of data which could help to recognize the underlying relationships
+Link for dataset : https://www.kaggle.com/datasets/avnishnish/mnist-original/
